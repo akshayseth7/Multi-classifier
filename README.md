@@ -1,1 +1,1 @@
-# Multi-classifier
+# Multiclassifier
